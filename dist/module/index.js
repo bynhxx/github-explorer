@@ -1,0 +1,1 @@
+import{render}from"c:\\node_modules\\react-dom\\index.js";import{App}from"/App.js";render(React.createElement(App,null),document.getElementById("root"));
